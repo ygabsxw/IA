@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: decision_trees
+Version: 0.1.0
+Summary: Implementação do zero dos algoritmos ID3, C4.5 e CART.
+Author: Gabriel Diniz Reis Vianna
+Author-email: gabrieldrvianna@gmail.com
+Requires-Python: >=3.8
+Requires-Dist: numpy
+Requires-Dist: pandas
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
